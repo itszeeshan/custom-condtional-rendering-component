@@ -8,7 +8,7 @@ const UseShow = () => {
             <Show.If isTrue={true}>
                 <div>True</div>
             </Show.If>
-            <Show.Else render={false}>
+            <Show.Else>
                 <div>False</div>
             </Show.Else>
         </Show>
