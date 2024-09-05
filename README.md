@@ -1,6 +1,6 @@
 # Custom Condtional Rendering Component
 This is a custom conditional rendering component that you can use in your Nextjs or Reactjs project.
-To understand read this blog at [@zeesek](https://medium.com/@zeesek/custom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a)
+To understand, please read this blog at [@zeesek](https://medium.com/@zeesek/custom-conditional-rendering-component-in-reactjs-nextjs-cd8e92a7110a)
 
 # Info
 
